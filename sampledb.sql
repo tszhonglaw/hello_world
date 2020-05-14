@@ -1,3 +1,6 @@
+-- creating database for SQL query practice
+-- http://www.w3programmers.com/mysql-intermediate-tutorial/
+
 -- phpMyAdmin SQL Dump
 -- version 3.3.9
 -- http://www.phpmyadmin.net
